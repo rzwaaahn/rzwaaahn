@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rizwan 👋
 
-<!--
-**rzwaaahn/rzwaaahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💻 Interested in Python, Data Science, AI and Software Development
 
-Here are some ideas to get you started:
+## About Me
+- I am a student interested in Artificial Intelligence and Data Science.
+- I enjoy learning new technologies and building practical projects.
+- I like solving real-world problems using technology.
+- I am continuously improving my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 🚦 Smart Traffic System
+A project focused on smart traffic management and route mapping.
+
+### 🛡️ Bias Detector
+A project focused on identifying possible bias in text using text similarity and keyword flags.
+
+## Technical Interests
+- Python
+- Artificial Intelligence
+- Data Science
+- Data Visualization
+- Software Development
+
+## Connect With Me
+- GitHub: [@rzwaaahn](https://github.com/rzwaaahn)
