@@ -14,7 +14,7 @@
 ### 🚦 Smart Traffic System
 A project focused on smart traffic management and route mapping.
 
-### 🛡️ Bias Detector
+### 🛡️ [Bias Detector](https://github.com/rzwaaahn/bias-detector)
 A project focused on identifying possible bias in text using text similarity and keyword flags.
 
 ## Technical Interests
