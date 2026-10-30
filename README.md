@@ -25,4 +25,4 @@ A project focused on identifying possible bias in text using text similarity and
 - Software Development
 
 ## Connect With Me
-- GitHub: [@rzwaaahn](https://github.com/rzwaaahn)
+- LinkedIn: [@Mohammed Rizwan](https://www.linkedin.com/in/mohammedrizwanpp/)
